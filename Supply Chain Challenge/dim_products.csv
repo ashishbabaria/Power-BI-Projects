@@ -1,0 +1,19 @@
+product_name,product_id,category
+AM Milk 500,25891101,Diary
+AM Milk 250,25891102,Diary
+AM Milk 100,25891103,Diary
+AM Butter 100,25891201,Diary
+AM Butter 250,25891202,Diary
+AM Butter 500,25891203,Diary
+AM Ghee 250,25891301,Diary
+AM Ghee 150,25891302,Diary
+AM Ghee 100,25891303,Diary
+AM Curd 250,25891401,Diary
+AM Curd 100,25891402,Diary
+AM Curd 50,25891403,Diary
+AM Biscuits 750,25891501,Food
+AM Biscuits 500,25891502,Food
+AM Biscuits 250,25891503,Food
+AM Tea 500,25891601,beverages
+AM Tea 250,25891602,beverages
+AM Tea 100,25891603,beverages
